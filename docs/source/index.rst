@@ -6,19 +6,22 @@
 
 .. toctree::
     :caption: FOF-CT: Chromatin Tracing
-    :hidden:
-    :maxdepth: 1
 
     intro
     format_overview
+    how_to_use
     core
-    rna
-    quality
-    bio
     demultiplexing
     trace
+    quality
+    bio
+    rna
+    rna_quality
+    rna_bio
     cell
     subcell
     extracell
     mapping
+    datasets
     misc
+    allowable_value_lists
